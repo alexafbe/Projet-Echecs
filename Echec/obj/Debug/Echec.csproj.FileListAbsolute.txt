@@ -1,0 +1,21 @@
+D:\C#\exercice\Echec\Echec\bin\Debug\Echec.exe.config
+D:\C#\exercice\Echec\Echec\bin\Debug\Echec.exe
+D:\C#\exercice\Echec\Echec\bin\Debug\Echec.pdb
+D:\C#\exercice\Echec\Echec\obj\Debug\Echec.csprojResolveAssemblyReference.cache
+D:\C#\exercice\Echec\Echec\obj\Debug\Echec.csproj.CoreCompileInputs.cache
+D:\C#\exercice\Echec\Echec\obj\Debug\Echec.exe
+D:\C#\exercice\Echec\Echec\obj\Debug\Echec.pdb
+C:\Users\Alexandra Fabre\source\repos\Echec\Echec\bin\Debug\Echec.exe.config
+C:\Users\Alexandra Fabre\source\repos\Echec\Echec\bin\Debug\Echec.exe
+C:\Users\Alexandra Fabre\source\repos\Echec\Echec\bin\Debug\Echec.pdb
+C:\Users\Alexandra Fabre\source\repos\Echec\Echec\obj\Debug\Echec.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra Fabre\source\repos\Echec\Echec\obj\Debug\Echec.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra Fabre\source\repos\Echec\Echec\obj\Debug\Echec.exe
+C:\Users\Alexandra Fabre\source\repos\Echec\Echec\obj\Debug\Echec.pdb
+G:\Projet echecs\Echec\Echec\bin\Debug\Echec.exe.config
+G:\Projet echecs\Echec\Echec\bin\Debug\Echec.exe
+G:\Projet echecs\Echec\Echec\bin\Debug\Echec.pdb
+G:\Projet echecs\Echec\Echec\obj\Debug\Echec.csprojResolveAssemblyReference.cache
+G:\Projet echecs\Echec\Echec\obj\Debug\Echec.csproj.CoreCompileInputs.cache
+G:\Projet echecs\Echec\Echec\obj\Debug\Echec.exe
+G:\Projet echecs\Echec\Echec\obj\Debug\Echec.pdb
